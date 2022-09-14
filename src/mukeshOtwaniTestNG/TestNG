@@ -1,0 +1,26 @@
+What is TestNG?
+--->TestNG is a testing framework inspired from Junit
+--->TestNG has multiple classes interface and methods which will make testers task easy
+--->TestNG provides so many additional functionality using them you can create very robust framework itself.
+
+Advantages 
+--->default reporting
+--->annotations
+--->run your tests in arbitrarily big thread pools
+--->Easy and Flexible test Configuration
+--->Support for data-driven testing(with@DataProvider).
+--->support for parameters.
+--->Easy way to execute Test Suit
+--->Supported by a variety of tools and plug-in (eclipse,IDEA,Maven etc)
+--->Grouping Features and many more.
+
+
+Real Time Scenario
+-->If we have some test cases that are dependent on each other so in this case
+if single test failed then rest all test will also fail.
+-->Ideally if first test failed rest all should go either into skip category or 
+not executed.
+-->TestNG allow you to create dependency between test and groups as well.
+
+-->Syntax
+@Test(dependsOnMethods="start" )
