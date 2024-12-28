@@ -28,7 +28,7 @@ As I continue to grow as a developer, I’m focusing on:
 - 📈 Staying updated with the latest trends in software development.  
 
 ### 📫 **How to Reach Me**  
-- 🔗 **LinkedIn**:(www.linkedin.com/in/mukundpuyad)  
+- 🔗 **LinkedIn**:www.linkedin.com/in/mukundpuyad 
 - 🐦 **Twitter**: @MukundPuyad
 
 ---
