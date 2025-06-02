@@ -29,7 +29,6 @@ As I continue to grow as a developer, I’m focusing on:
 
 ### 📫 **How to Reach Me**  
 - 🔗 **LinkedIn**:www.linkedin.com/in/mukundpuyad 
-- 🐦 **Twitter**: @MukundPuyad
 
 ---
 
